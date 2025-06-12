@@ -1,0 +1,13 @@
+Crop,Seed_Type,Area,Yield_per_Acre
+Onion,Hybrid,1,10
+Onion,Organic,1,9
+Onion,Local,1,8
+Tomato,Hybrid,1,8
+Tomato,Organic,1,7
+Tomato,Local,1,6
+Wheat,Hybrid,1,6
+Wheat,Organic,1,5
+Wheat,Local,1,4
+Potato,Hybrid,1,12
+Potato,Organic,1,10
+Potato,Local,1,9
